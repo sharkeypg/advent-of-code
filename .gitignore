@@ -1,0 +1,37 @@
+.idea/
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.html_
+plot_files$
+*.Rout
+
+# Data
+*.csv
+*.xlsx
+*.tsv
+
+creds.yml
+Venv/*
+
+# Notebooks (by default)
+*.html
+
+# Vim
+*.swp
+
+# Jupyter
+*-checkpoint.ipynb
+
+# Log files
+*.log
+
+# Binary files
+*.pdf
+
+
+#pythonfiles
+*.pyc
